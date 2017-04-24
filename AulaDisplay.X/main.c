@@ -1,3 +1,5 @@
+/* Teste */
+
 /*
  * File:   main.c
  * Author: arlindo
